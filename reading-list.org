@@ -1,0 +1,50 @@
+#+TITLE:     Reading List
+#+AUTHOR:    Adrian Rubio-Punal
+#+EMAIL:     adrian.rubio.punal@gmail.com
+#+DATE:      2025-05-18 Sun
+#+DESCRIPTION: My personal deep learning pdf reading list
+#+KEYWORDS:
+#+LANGUAGE:  en
+
+* Convolutional Neural Networks (CNNs)
+- [ ] "ImageNet Classification with Deep Convolutional Neural Networks" by Krizhevsky et al. (2012)
+- [ ] "Deep Residual Learning for Image Recognition" by He et al. (2016)
+- [ ] "Very Deep Convolutional Networks for Large-Scale Image Recognition" by Simonyan & Zisserman (2014)
+- [ ] "Going Deeper with Convolutions" by Szegedy et al. (2014) \
+
+* Transformer Architecture
+- [ ] "Attention Is All You Need" by Vaswani et al. (2017)
+- [ ] "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Devlin et al. (2018)
+- [ ] "Language Models are Few-Shot Learners" by Brown et al. (2020)
+
+* Recurrent Neural Networks (RNNs) & LSTMs
+- [ ] "Long Short-Term Memory" by Hochreiter & Schmidhuber (1997)
+- [ ] "Sequence to Sequence Learning with Neural Networks" by Sutskever et al. (2014)
+- [ ] "Neural Machine Translation by Jointly Learning to Align and Translate" by Bahdanau et al. (2014)
+
+* Generative Models
+- [ ] "Generative Adversarial Networks" by Goodfellow et al. (2014)
+- [ ] "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks" by Radford et al. (2015)
+- [ ] "Auto-Encoding Variational Bayes" by Kingma & Welling (2013)
+- [ ] "Denoising Diffusion Probabilistic Models" by Ho et al. (2020)
+
+* Reinforcement Learning
+- [ ] "Playing Atari with Deep Reinforcement Learning" by Mnih et al. (2013)
+- [ ] "Mastering the Game of Go with Deep Neural Networks and Tree Search" by Silver et al. (2016)
+- [ ] "Mastering Chess and Shogi by Self-Play" by Silver et al. (2017)
+- [ ] "Proximal Policy Optimization Algorithms" by Schulman et al. (2017)
+
+* Object Detection & Segmentation
+- [ ] "Playing Atari with Deep Reinforcement Learning" by Mnih et al. (2013)
+- [ ] "Mastering the Game of Go with Deep Neural Networks and Tree Search" by Silver et al. (2016)
+- [ ] "Mastering Chess and Shogi by Self-Play" by Silver et al. (2017)
+- [ ] "Proximal Policy Optimization Algorithms" by Schulman et al. (2017)
+
+* Face Recognition
+- [ ] "DeepFace: Closing the Gap to Human-Level Performance in Face Verification" by Taigman et al. (2014)
+- [ ] "FaceNet: A Unified Embedding for Face Recognition and Clustering" by Schroff et al. (2015)
+
+* Optimization & Training Techniques
+- [ ] "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" by Srivastava et al. (2014)
+- [ ] "Adam: A Method for Stochastic Optimization" by Kingma & Ba (2014)
+- [ ] "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift" by Ioffe & Szegedy (2015)
